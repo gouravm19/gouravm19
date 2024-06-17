@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @gouravm19
-- 👀 I’m interested in Blockchain Networking
-- 🌱 I’m currently learning Google It Support
-- 💞️ I’m looking to collaborate on Software Developing companies 
+- 👀 I’m interested in SDE role
+- 🌱 I’m currently learning Full Stack Development 
+- 💞️ I’m looking to collaborate with Software development companies 
 - 📫 How to reach me https://www.linkedin.com/in/gourav-mishra-ba53761a1/
 
 <!---
